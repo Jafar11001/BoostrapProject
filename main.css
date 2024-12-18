@@ -1,0 +1,11 @@
+nav a i{
+margin: 5px;
+}
+.col{
+display: flex;
+justify-content: center;
+}
+#BienvenueCl{
+display: flex;
+flex-direction: column;
+}
